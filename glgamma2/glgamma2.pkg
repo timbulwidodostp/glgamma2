@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'glgamma2': Generalized two-parameter (2-parameter) log-gamma regression Use glgamma2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f glgamma2.ado
+f glgamma2.hlp
+f lgamm_ll.ado
