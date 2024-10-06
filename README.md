@@ -1,6 +1,8 @@
 # glgamma2
 Generalized two-parameter (2-parameter) log-gamma regression Use glgamma2 With STATA 18
 
+https://www.youtube.com/watch?v=nnN2qzmNXjM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
